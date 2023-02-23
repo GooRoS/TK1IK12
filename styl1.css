@@ -1,0 +1,25 @@
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.baner{
+    background-color: brown;
+    color:white;
+}
+.lewy{
+    background-color:green;
+    color:white;
+
+}
+.prawy{
+    background-color: red;
+    color:white;
+    float:left;
+
+}
+.stopka{
+    clear:both;
+    background-color: brown;
+    color:white;
+
+
+}
